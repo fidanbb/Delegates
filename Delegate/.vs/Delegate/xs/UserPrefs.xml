@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{A8A47E3E-FBCC-4CD2-ABC6-178FF9EEA608}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Delegate PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Delegate/Controllers/BookController.cs">
+    <Files>
+      <File FileName="Delegate/Program.cs" />
+      <File FileName="Delegate/Delegates.cs" />
+      <File FileName="Delegate/Controllers/PersonController.cs" />
+      <File FileName="Delegate/Models/Book.cs" />
+      <File FileName="Delegate/Controllers/BookController.cs" Line="11" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Delegate" expanded="True">
+            <Node name="Delegate" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="BookController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

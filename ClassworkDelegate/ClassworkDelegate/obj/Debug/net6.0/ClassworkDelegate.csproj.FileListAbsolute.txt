@@ -1,0 +1,15 @@
+/Users/thatisphii/Desktop/c#Homeworks/Delegates/ClassworkDelegate/ClassworkDelegate/bin/Debug/net6.0/ClassworkDelegate
+/Users/thatisphii/Desktop/c#Homeworks/Delegates/ClassworkDelegate/ClassworkDelegate/bin/Debug/net6.0/ClassworkDelegate.deps.json
+/Users/thatisphii/Desktop/c#Homeworks/Delegates/ClassworkDelegate/ClassworkDelegate/bin/Debug/net6.0/ClassworkDelegate.runtimeconfig.json
+/Users/thatisphii/Desktop/c#Homeworks/Delegates/ClassworkDelegate/ClassworkDelegate/bin/Debug/net6.0/ClassworkDelegate.dll
+/Users/thatisphii/Desktop/c#Homeworks/Delegates/ClassworkDelegate/ClassworkDelegate/bin/Debug/net6.0/ClassworkDelegate.pdb
+/Users/thatisphii/Desktop/c#Homeworks/Delegates/ClassworkDelegate/ClassworkDelegate/obj/Debug/net6.0/ClassworkDelegate.csproj.AssemblyReference.cache
+/Users/thatisphii/Desktop/c#Homeworks/Delegates/ClassworkDelegate/ClassworkDelegate/obj/Debug/net6.0/ClassworkDelegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thatisphii/Desktop/c#Homeworks/Delegates/ClassworkDelegate/ClassworkDelegate/obj/Debug/net6.0/ClassworkDelegate.AssemblyInfoInputs.cache
+/Users/thatisphii/Desktop/c#Homeworks/Delegates/ClassworkDelegate/ClassworkDelegate/obj/Debug/net6.0/ClassworkDelegate.AssemblyInfo.cs
+/Users/thatisphii/Desktop/c#Homeworks/Delegates/ClassworkDelegate/ClassworkDelegate/obj/Debug/net6.0/ClassworkDelegate.csproj.CoreCompileInputs.cache
+/Users/thatisphii/Desktop/c#Homeworks/Delegates/ClassworkDelegate/ClassworkDelegate/obj/Debug/net6.0/ClassworkDelegate.dll
+/Users/thatisphii/Desktop/c#Homeworks/Delegates/ClassworkDelegate/ClassworkDelegate/obj/Debug/net6.0/refint/ClassworkDelegate.dll
+/Users/thatisphii/Desktop/c#Homeworks/Delegates/ClassworkDelegate/ClassworkDelegate/obj/Debug/net6.0/ClassworkDelegate.pdb
+/Users/thatisphii/Desktop/c#Homeworks/Delegates/ClassworkDelegate/ClassworkDelegate/obj/Debug/net6.0/ClassworkDelegate.genruntimeconfig.cache
+/Users/thatisphii/Desktop/c#Homeworks/Delegates/ClassworkDelegate/ClassworkDelegate/obj/Debug/net6.0/ref/ClassworkDelegate.dll
